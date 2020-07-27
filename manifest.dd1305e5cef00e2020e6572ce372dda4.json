@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.7001b792aad3866c0ec57ec6009e4341.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.153ec6ee36a00fab88e0393aae280394.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.a0cf5cd9285439eb5aff3d0f6748d81b.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.ae09b582196c4b135f0f97e54b58fab0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.909f2e120762109a343dbb66a27da5ab.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.57756e19396aff6838e1a783b9cac66d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Mixes Keuken | Lodiser",
+  "short_name": "Mixes Keuken",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Productos para Repostería y Pastelería",
+  "background_color": "#fff",
+  "theme_color": "#810000"
+}
